@@ -1,0 +1,50 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  margin: 0;
+  padding: 0;
+  
+  height: 100vh;
+}
+
+input {
+  display: block;
+
+  padding: 15px;
+  margin-top: 5px;
+}
+
+button {
+  color: #fff;
+
+  background-color: #0887ed;
+
+  font-size: 16px;
+  font-weight: bold;
+
+  border: none;
+  border-radius: 3px;
+  padding: 5px 15px;
+  margin-top: 20px;
+
+  cursor: pointer;
+
+  transition: 0.2s;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+button:active {
+  transform: scale(0.9);
+}
+
+.output {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
