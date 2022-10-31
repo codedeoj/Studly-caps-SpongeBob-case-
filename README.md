@@ -4,4 +4,4 @@
 
 **Author:** Deoj Balcanao
 
-**GH Pages** - https://codedeoj.github.io/studly-caps/
+**GH Pages** - https://codedeoj.github.io/Studly-caps-SpongeBob-case-/
